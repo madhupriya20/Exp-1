@@ -4,19 +4,14 @@
 To draw the UML diagram for ATM and Banking System.
 
 # SRS (Procedure):
-List of Programs:
+Open StarUML and create a new project named Library Management System.
 
-1.Usecase Diagram
+Design the following UML diagrams: Use Case, Class, Activity, Package, Communication, and Sequence Diagrams.
 
-2.Class Diagram
+Each diagram should represent system components, user interactions, and process flows clearly.
 
-3.Activity Diagram
+Save and export all diagrams, then include them in the report for documentation.
 
-4.Communication Diagram
-
-5.Package Diagram
-
-6.Sequence Diagram
 
 # DIAGRAMS:
 ## Usecase Diagram
